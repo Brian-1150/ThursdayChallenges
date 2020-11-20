@@ -53,7 +53,7 @@ namespace Week1_ThursdayChallenge {
             int hours = Convert.ToInt32(Console.ReadLine());
             if (hours > 9)                                          //challenge 6
                 Console.WriteLine("Wow! That is a lot of sleep.");
-            else if (hours > 8 && hours < 10)
+            else if (hours >= 8 && hours < 10)
                 Console.WriteLine("You should be well rested.");
             else if (hours > 4 && hours < 8)
                 Console.WriteLine("Bummer");

@@ -1,0 +1,7 @@
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\Week_02\bin\Debug\Week_02.exe.config
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\Week_02\bin\Debug\Week_02.exe
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\Week_02\bin\Debug\Week_02.pdb
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\Week_02\obj\Debug\Week_02.csprojAssemblyReference.cache
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\Week_02\obj\Debug\Week_02.csproj.CoreCompileInputs.cache
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\Week_02\obj\Debug\Week_02.exe
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\Week_02\obj\Debug\Week_02.pdb
