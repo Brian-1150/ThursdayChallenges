@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week_02", "Week_02\Week_02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week_04", "Week_04\Week_04.csproj", "{5CAF73AF-42A4-4FDC-B8DF-1A0112A792F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrofsnarChallenge", "DrofsnarChallenge\DrofsnarChallenge.csproj", "{9C99F7CB-5FB6-45C8-8E96-816328D61905}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5CAF73AF-42A4-4FDC-B8DF-1A0112A792F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CAF73AF-42A4-4FDC-B8DF-1A0112A792F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CAF73AF-42A4-4FDC-B8DF-1A0112A792F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C99F7CB-5FB6-45C8-8E96-816328D61905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C99F7CB-5FB6-45C8-8E96-816328D61905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C99F7CB-5FB6-45C8-8E96-816328D61905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C99F7CB-5FB6-45C8-8E96-816328D61905}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -52,10 +52,34 @@ namespace Week_04 {
                 }
                 Console.WriteLine($"Outdoor game:  {var.Outdoor}\n\n");
                     
-                                                                                                                  //$"Outdoor Game:  {var.Outdoor}");
             }
+
+
+            //Fundamentals Quiz Testing
+         DateTime date = new DateTime(1980, 10, 8);
+            Console.WriteLine(date.ToString());
+            HappyBirthday(date);
+            int x = 5;
+            int y = 7;
+            Console.WriteLine($"{x} divided by {y} equals {DivideTwoNumbers(x, y)}");
         }
-    }
+
+     public static void HappyBirthday(DateTime dateOfBirth) {
+            
+            System.TimeSpan difference = DateTime.Now.Subtract(dateOfBirth);
+            double diff = difference.TotalDays/365;
+            int diffy = Convert.ToInt32(diff);
+
+            Console.WriteLine($"Happy Birthday!  You are {diffy} years old");
+        }
+        public static double DivideTwoNumbers(int x, int y) {
+            double xDub = Convert.ToDouble(x);
+            double yDub = Convert.ToDouble(y);
+            return Math.Round(xDub / yDub, 2);
+
+        }
+
+        }
 
 
         }
