@@ -1,0 +1,10 @@
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\HelloWorld\obj\Debug\HelloWorld.pdb

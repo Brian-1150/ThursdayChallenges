@@ -1,0 +1,10 @@
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\SmackASpider\bin\Debug\SmackASpider.exe.config
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\SmackASpider\bin\Debug\SmackASpider.exe
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\SmackASpider\bin\Debug\SmackASpider.pdb
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\SmackASpider\obj\Debug\SmashASpider.csprojAssemblyReference.cache
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\SmackASpider\obj\Debug\SmackASpider.Properties.Resources.resources
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\SmackASpider\obj\Debug\SmackASpider.SpiderForm1.resources
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\SmackASpider\obj\Debug\SmashASpider.csproj.GenerateResource.cache
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\SmackASpider\obj\Debug\SmashASpider.csproj.CoreCompileInputs.cache
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\SmackASpider\obj\Debug\SmackASpider.exe
+C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\SmackASpider\obj\Debug\SmackASpider.pdb
