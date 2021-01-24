@@ -8,3 +8,6 @@ C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\GrabAGift\obj\
 C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\GrabAGift\obj\Debug\GrabAGift.csproj.CoreCompileInputs.cache
 C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\GrabAGift\obj\Debug\GrabAGift.exe
 C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\GrabAGift\obj\Debug\GrabAGift.pdb
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\GrabAGift\obj\Debug\GrabAGift.csprojAssemblyReference.cache
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\GrabAGift\obj\Debug\GrabAGift.exe
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\GrabAGift\obj\Debug\GrabAGift.pdb

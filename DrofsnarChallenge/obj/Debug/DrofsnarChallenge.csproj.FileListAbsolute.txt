@@ -5,3 +5,10 @@ C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\DrofsnarChalle
 C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\DrofsnarChallenge\obj\Debug\DrofsnarChallenge.csproj.CoreCompileInputs.cache
 C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\DrofsnarChallenge\obj\Debug\DrofsnarChallenge.exe
 C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\DrofsnarChallenge\obj\Debug\DrofsnarChallenge.pdb
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\DrofsnarChallenge\bin\Debug\DrofsnarChallenge.exe.config
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\DrofsnarChallenge\bin\Debug\DrofsnarChallenge.exe
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\DrofsnarChallenge\bin\Debug\DrofsnarChallenge.pdb
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\DrofsnarChallenge\obj\Debug\DrofsnarChallenge.csprojAssemblyReference.cache
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\DrofsnarChallenge\obj\Debug\DrofsnarChallenge.csproj.CoreCompileInputs.cache
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\DrofsnarChallenge\obj\Debug\DrofsnarChallenge.exe
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\DrofsnarChallenge\obj\Debug\DrofsnarChallenge.pdb

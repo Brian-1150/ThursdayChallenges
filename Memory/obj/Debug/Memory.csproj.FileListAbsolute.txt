@@ -8,3 +8,13 @@ C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\Memory\bin\Deb
 C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\Memory\bin\Debug\Memory.pdb
 C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\Memory\obj\Debug\Memory.exe
 C:\Users\bpcam\OneDrive\ElevenFiftyProjects\C#\ThursdayChallenges\Memory\obj\Debug\Memory.pdb
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\Memory\bin\Debug\Memory.exe.config
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\Memory\bin\Debug\Memory.exe
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\Memory\bin\Debug\Memory.pdb
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\Memory\obj\Debug\Memory.MemoryForm1.resources
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\Memory\obj\Debug\Memory.Properties.Resources.resources
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\Memory\obj\Debug\Memory.csproj.GenerateResource.cache
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\Memory\obj\Debug\Memory.exe
+C:\Users\bpcam\OneDrive - Indiana University\ElevenFiftyProjects\C#\ThursdayChallenges\Memory\obj\Debug\Memory.pdb
